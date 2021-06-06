@@ -1,5 +1,18 @@
-<html>
+
+	 ```yml
+    theme: jekyll-theme-minimal
+    ```
   <head>
+
+	```yml
+title: [Work Plans]
+description: [Work Plans]
+```
+	```yml
+logo: [/assets/img/test.png]
+show_downloads: ["true"]
+google_analytics: [Your Google Analytics tracking ID]
+```
     title: [Work Plans]
     description: [Projects]
     logo: [/assets/img/test.png]
