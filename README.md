@@ -56,8 +56,8 @@
 	<p>This project covers the second task of the Metadata Office in 2020, taking forward the management of three key CESSDA assets:</p>
 	<ul>
 		<li> <a href="https://www.cessda.eu/Tools-Services/For-Service-Providers/ELSST-Multilingual-Thesaurus">European Language Social Science Thesaurus (ELSST)</a> </li>
-		<li> CESSDA Vocabulary Service (CVS) </li>
-		<li> CESSDA Data Catalogue (CDC) </li>
+		<li> <a href="https://vocabularies.cessda.eu/#!discover">CESSDA Vocabulary Service (CVS)</a> </li>
+		<li> <a href="https://datacatalogue.cessda.eu/">CESSDA Data Catalogue (CDC) </a></li>
 	</ul>
 	<h4>ELSST</h4>
 	<p>The team develops new and amended concepts, facilitating ongoing translation. Periodic ELSST releases will be made in collaboration with translators to ensure its currency. During 2020, ELSST will move to a new technical platform, enabling better ontology management from 2021 onwards.</p>
