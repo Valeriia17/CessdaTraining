@@ -31,6 +31,26 @@
 	<p>Participants</p>
 	<p>GESIS (lead), ADP, AUSSDA, CSDA, DANS, DNA, DCS, EKKE, FORS, NSD, SND, UK Data Service</p>
 	<p><button onclick="topFunction()" id="myBtn" title="Back to top">Back to Top</button></p>
+#myBtn {
+	display: none; /* Hidden by default */
+  	position: fixed; /* Fixed/sticky position */
+  	bottom: 20px; /* Place the button at the bottom of the page */
+  	right: 30px; /* Place the button 30px from the right */
+  	z-index: 99; /* Make sure it does not overlap */
+  	border: none; /* Remove borders */
+ 	outline: none; /* Remove outline */
+  	background-color: none; /* Set a background color */
+  	color: blue; /* Text color */
+  	cursor: pointer; /* Add a mouse pointer on hover */
+  	padding: 15px; /* Some padding */
+  	border-radius: 10px; /* Rounded corners */
+  	font-size: 18px; /* Increase font size */
+	}
+#myBtn:hover {
+  	background-color: none; /* Add a dark-grey background on hover */
+	}
+	
+	
 	<h2> CESSDA Trust Support 2020 </h2>	
 	<p>A key principle of CESSDA is that Service Providers must be trusted by each other and by their stakeholders including ministries, universities, national statistical offices, funders and, critically, data depositors and users. This project supports this goal through supporting SP’s towards certification against the Trustworthy Digital Repository (TDR) standard selected by CESSDA, the CoreTrustSeal. This project must now support SP at a range of certification maturity: ‘beginning the journey’, ‘self-assessment and certification in progress’, and ‘renewal and improvement’.</p>
 	<p>In 2020 we also progress on the Trust Roadmap which seeks to monitor development in the TDR landscape and the wider landscape of Trust across research infrastructures including the European Open Science Cloud and development in FAIR data.</p>
