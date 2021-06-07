@@ -1,6 +1,5 @@
 <html>
 <head>	
-	<title>Hello</title>
 </head>
 <body>
 	<h2> Work Plan 2020 </h2>
