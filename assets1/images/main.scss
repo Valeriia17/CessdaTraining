@@ -1,6 +1,6 @@
 @import  " minimum " ;
 
-.site-title :: before {
+.site-title :: after {
 	content : url ( " /assets/test.png" );
 	display : inline-block ;
 	position : relative ;
