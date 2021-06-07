@@ -6,7 +6,7 @@
 	<h2> Work Plan 2020 </h2>
 	<p>Projects</p> 
 	<ul>
-		<li> CESSDA Training Activities 2020 </li>
+		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#training20"> CESSDA Training Activities 2020 </a></li>
 		<li> CESSDA Trust Support 2020 </li>
 		<li> CESSDA Metadata Office: Metadata Model </li>
 		<li> CESSDA Metadata Office: ELSST, CVS and CDC </li>
