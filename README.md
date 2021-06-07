@@ -48,7 +48,7 @@
 	<p>January - December 2020</p>
 	<p>Participants</p>
 	<p>GESIS (lead), UK Data Service, NSD, FSD</p>
-	<p>Back to top</p>
+	<p><a href="#top">Back to top</a></p>
 	<h2>CESSDA Metadata Office: ELSST, CVS and CDC</h2>
 	<p>This project covers the second task of the Metadata Office in 2020, taking forward the management of three key CESSDA assets:</p>
 	<ul>
@@ -66,7 +66,7 @@
 	<p>January - December 2020</p>
 	<p>Participants</p>
 	<p>UK Data Service (lead), FSD, GESIS, NSD</p>
-	<p>Back to top</p>
+	<p><a href="#top">Back to top</a></p>
 	<h2>CESSDA Ontology Management System</h2>
 	<p>The current European Language Social Science Thesaurus (ELSST) multilingual thesaurus management system, hosted by UK Data Service, is reaching the end of its life. During 2019, detailed requirements for the replacement of ELSST were compiled. In conjunction with this, testing of a Vocbench + SKOSMOS open-source thesaurus management solution was undertaken.</p>
 	<p>Two potential replacement systems have been suggested as replacement for ELSST:</p>
@@ -79,14 +79,14 @@
 	<p>January - October 2020</p>
 	<p>Participants</p>
 	<p>UK Data Service (lead), FSD</p>
-	<p>Back to top</p>
+	<p><a href="#top">Back to top</a></p>
 	<h2>CESSDA Vocabulary Service Maintenance 2020</h2>
 	<p>The main goal of the project is to maintain the CESSDA Vocabulary Service, remove found errors to keep the service sustainable.</p>
 	<p>Duration</p>
 	<p>January - December 2020</p>
 	<p>Participants</p>
 	<p>GESIS</p>
-	<p>Back to top</p>
+	<p><a href="#top">Back to top</a></p>
 	<h2>CESSDA Euro Question Bank 2020</h2>
 	<p>This project finalises the previous Euro Question Bank (EQB) projects to establish a cross-national question bank. For the tool to function, CESSDA Service Providers and non-members/external data holders have to contribute their documentation by using DDI standardised metadata. This collaboration produces a wide variety of surveys, survey questions, and question-related information searchable for any user.</p>
 	<p>The project will focus on (a) finalising, maintaining and relaunching the EQB application and (b) expanding content and conduct quality control on the content. These aspects are the technical improvement of the existing frontend and backend and the support of Service Providers in the form of software adaptation to bring more content into EQB.</p>
@@ -94,7 +94,7 @@
 	<p>January - December 2020</p>
 	<p>Participants</p>
 	<p>GESIS, MK DASS</p>
-	<p>Back to top</p>
+	<p><a href="#top">Back to top</a></p>
 	<h2>CESSDA Widening Activities and Journal Outreach 2020</h2>
 	<p>This project integrates following two proposals: CESSDA Widening Activities 2020 and Journals Outreach. Widening European coverage and the development of Pan-European data services are among the priorities of CESSDA.</p>
 	<p>The main objectives of the widening activities are the following:</p>
@@ -110,7 +110,7 @@
 	<p>January - December 2020</p>
 	<p>Participants</p>
 	<p>CSDA (lead), GESIS, FORS, SND, ADP, TARKI, FFZG, MK DASS/ISPJR, DCS/IES</p>
-	<p>Back to top</p>
+	<p><a href="#top">Back to top</a></p>
 	<h2>New Data Types 2020</h2>
 	<p>New data types are increasingly being used within the social sciences. The use of social media data, transaction data, or recorded data (sometimes these varieties are labelled “digital behavioural data”) is growing for many researchers investigating social phenomena. This creates challenges for data infrastructures to support their staff and researchers especially in the areas of ethics, transparency and reproducibility. Led by the FAIR principles, these new data need to be made findable, accessible, identifiable, and reusable by adapting and extending infrastructures designed for traditional data sources.</p>
 	<p>Key areas of work will focus on: metadata, data documentation, and data quality (in coordination with Metadata Office); practical guidance informed by on-going research) on ethical and legal use of digital behavioural data; and dissemination of the results via an international conference to make CESSDA visible to the community of new data researchers.</p>
@@ -119,7 +119,7 @@
 	<p>January - December 2020</p>
 	<p>Participants</p>
 	<p>GESIS (lead), TARKI, CSDA, SASD, SoDaNet/EKKE, ADP</p>
-	<p>Back to top</p>
+	<p><a href="#top">Back to top</a></p>
 	
 </body>
 </html>
