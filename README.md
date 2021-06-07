@@ -1,6 +1,5 @@
 <html>
-<head>
-	
+<head>	
 </head>
 	<body>
 	<h2> Work Plan 2020 </h2>
@@ -128,6 +127,7 @@
 	<p>Participants</p>
 	<p>GESIS (lead), TARKI, CSDA, SASD, SoDaNet/EKKE, ADP</p>
 	<p><a href="#top">Back to top</a></p>	
+
 </body>
 </html>
 
