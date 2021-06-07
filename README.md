@@ -55,7 +55,7 @@
 	<h2>CESSDA Metadata Office: ELSST, CVS and CDC</h2>
 	<p>This project covers the second task of the Metadata Office in 2020, taking forward the management of three key CESSDA assets:</p>
 	<ul>
-		<li> European Language Social Science Thesaurus (ELSST) </li>
+		<li> <a href="https://www.cessda.eu/Tools-Services/For-Service-Providers/ELSST-Multilingual-Thesaurus">European Language Social Science Thesaurus (ELSST)</a> </li>
 		<li> CESSDA Vocabulary Service (CVS) </li>
 		<li> CESSDA Data Catalogue (CDC) </li>
 	</ul>
