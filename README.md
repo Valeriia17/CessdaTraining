@@ -135,7 +135,7 @@ google_analytics: [Your Google Analytics tracking ID]
 	<p>GESIS (lead), TARKI, CSDA, SASD, SoDaNet/EKKE, ADP</p>
 	<p>Back to top</p>
 		
-</body>
+	</body>
 </html>
 
 
