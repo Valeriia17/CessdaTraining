@@ -18,6 +18,7 @@
 	</ul>
 	<hr />
 	
+	<a id="top"></a>
 	<h2> CESSDA Training Activities 2020 </h2>
 	<p> The CESSDA Training Group and GESIS will collaborate to ensure that the proposed activities for 2020 meet the priority needs of CESSDA, the Training Group and enable GESIS to develop its training capacities as well.</p>
 	<p> The work falls into three categories:</p>
@@ -30,25 +31,8 @@
 	<p>January - December 2020</p>
 	<p>Participants</p>
 	<p>GESIS (lead), ADP, AUSSDA, CSDA, DANS, DNA, DCS, EKKE, FORS, NSD, SND, UK Data Service</p>
-	<p><button onclick="topFunction()" id="myBtn" title="Back to top">Back to Top</button></p>
-#myBtn {
-	display: none; /* Hidden by default */
-  	position: fixed; /* Fixed/sticky position */
-  	bottom: 20px; /* Place the button at the bottom of the page */
-  	right: 30px; /* Place the button 30px from the right */
-  	z-index: 99; /* Make sure it does not overlap */
-  	border: none; /* Remove borders */
- 	outline: none; /* Remove outline */
-  	background-color: none; /* Set a background color */
-  	color: blue; /* Text color */
-  	cursor: pointer; /* Add a mouse pointer on hover */
-  	padding: 15px; /* Some padding */
-  	border-radius: 10px; /* Rounded corners */
-  	font-size: 18px; /* Increase font size */
-	}
-#myBtn:hover {
-  	background-color: none; /* Add a dark-grey background on hover */
-	}
+	<a href="#top">Back to top</a>
+
 	
 	
 	<h2> CESSDA Trust Support 2020 </h2>	
