@@ -6,7 +6,7 @@
 	<h2> Work Plan 2020 </h2>
 	<p>Projects</p> 
 	<ul>
-		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#training20"> CESSDA Training Activities 2020 </a></li>
+		<li> <p><a href="#CESSDA Training Activities 2020">CESSDA Training Activities 2020</a></p></li>
 		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#trust20">CESSDA Trust Support 2020 </a></li>
 		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#mof20">CESSDA Metadata Office: Metadata Model</a></li>
 		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#mofbis20"> CESSDA Metadata Office: ELSST, CVS and CDC </a></li>
@@ -20,6 +20,7 @@
 	
 	<a id="top"></a>
 	<h2> CESSDA Training Activities 2020 </h2>
+	<a id="CESSDA Training Activities 2020"></a>	
 	<p> The CESSDA Training Group and GESIS will collaborate to ensure that the proposed activities for 2020 meet the priority needs of CESSDA, the Training Group and enable GESIS to develop its training capacities as well.</p>
 	<p> The work falls into three categories:</p>
 	<p> <ol>
