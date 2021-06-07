@@ -5,6 +5,7 @@
     	<a class="site-title" href="{{ site.baseurl }}/">
      	 {% if site.logo %}
         <img src="/assets/{{ test.png }}" class="site-logo" width="150" height="auto">
+		
 	<body>
 	<h2> Work Plan 2020 </h2>
 	<p>Projects</p> 
