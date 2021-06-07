@@ -8,7 +8,7 @@
 	<ul>
 		<li> <a href="#CESSDA Training Activities 2020">CESSDA Training Activities 2020</a></li>
 		<li> <a href="#CESSDA Trust Support 2020">CESSDA Trust Support 2020 </a></li>
-		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#mof20">CESSDA Metadata Office: Metadata Model</a></li>
+		<li> <a href="#CESSDA Metadata Office: Metadata Model">CESSDA Metadata Office: Metadata Model</a></li>
 		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#mofbis20"> CESSDA Metadata Office: ELSST, CVS and CDC </a></li>
 		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#onto">CESSDA Ontology Management System</a></li>
 		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#cvs20">CESSDA Vocabulary Service Maintenance 2020 </a></li>
@@ -42,6 +42,7 @@
 	<p>Participants</p>
 	<p>UK Data Service (lead), DANS, FSD, GESIS, ADP, SND</p>
 	<p><a href="#top">Back to top</a></p>
+	<a id="CESSDA Metadata Office: Metadata Model"></a>
 	<h2>CESSDA Metadata Office: Metadata Model</h2>
 	<p>One important aspect of the work of the CESSDA Metadata Office (MDO) is not only to produce and update relevant outputs (e.g. CESSDA Metadata Model (CMM), User Guide) for CESSDA SPs and tools, but also to increase the awareness and understanding of those outcomes to CESSDA SPs and to metadata players outside of CESSDA.One important aspect of the work of the CESSDA Metadata Office (MDO) is not only to produce and update relevant outputs (e.g. CESSDA Metadata Model (CMM), User Guide) for CESSDA SPs and tools, but also to increase the awareness and understanding of those outcomes to CESSDA SPs and to metadata players outside of CESSDA.</p>
 	<p>To be able to take steps and actions, CESSDA needs to stay up to date with metadata developments outside of CESSDA. The project will examine other (metadata) developments and strategically important metadata initiatives.</p>
