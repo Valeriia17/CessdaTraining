@@ -3,7 +3,7 @@
 		Work Plans
 	</head>
 	<body>
-	<h1> Work Plan 2020 </h1>
+	<h2> Work Plan 2020 </h2>
 	<p>Projects</p> 
 	<ul>
 		<li> CESSDA Training Activities 2020 </li>
@@ -18,7 +18,7 @@
 	</ul>
 	<hr />
 	
-	<h1> CESSDA Training Activities 2020 </h1>
+	<h2> CESSDA Training Activities 2020 </h2>
 	<p> The CESSDA Training Group and GESIS will collaborate to ensure that the proposed activities for 2020 meet the priority needs of CESSDA, the Training Group and enable GESIS to develop its training capacities as well.</p>
 	<p> The work falls into three categories:</p>
 	<p> <ol>
@@ -31,7 +31,7 @@
 	<p>Participants</p>
 	<p>GESIS (lead), ADP, AUSSDA, CSDA, DANS, DNA, DCS, EKKE, FORS, NSD, SND, UK Data Service</p>
 	<p>Back to top</p>
-	<h1> CESSDA Trust Support 2020 </h1>	
+	<h2> CESSDA Trust Support 2020 </h2>	
 	<p>A key principle of CESSDA is that Service Providers must be trusted by each other and by their stakeholders including ministries, universities, national statistical offices, funders and, critically, data depositors and users. This project supports this goal through supporting SP’s towards certification against the Trustworthy Digital Repository (TDR) standard selected by CESSDA, the CoreTrustSeal. This project must now support SP at a range of certification maturity: ‘beginning the journey’, ‘self-assessment and certification in progress’, and ‘renewal and improvement’.</p>
 	<p>In 2020 we also progress on the Trust Roadmap which seeks to monitor development in the TDR landscape and the wider landscape of Trust across research infrastructures including the European Open Science Cloud and development in FAIR data.</p>
 	<p>Duration</p>
@@ -39,7 +39,7 @@
 	<p>Participants</p>
 	<p>UK Data Service (lead), DANS, FSD, GESIS, ADP, SND</p>
 	<p>Back to top</p>
-	<h1>CESSDA Metadata Office: Metadata Model</h1>
+	<h2>CESSDA Metadata Office: Metadata Model</h2>
 	<p>One important aspect of the work of the CESSDA Metadata Office (MDO) is not only to produce and update relevant outputs (e.g. CESSDA Metadata Model (CMM), User Guide) for CESSDA SPs and tools, but also to increase the awareness and understanding of those outcomes to CESSDA SPs and to metadata players outside of CESSDA.One important aspect of the work of the CESSDA Metadata Office (MDO) is not only to produce and update relevant outputs (e.g. CESSDA Metadata Model (CMM), User Guide) for CESSDA SPs and tools, but also to increase the awareness and understanding of those outcomes to CESSDA SPs and to metadata players outside of CESSDA.</p>
 	<p>To be able to take steps and actions, CESSDA needs to stay up to date with metadata developments outside of CESSDA. The project will examine other (metadata) developments and strategically important metadata initiatives.</p>
 	<p>CMM is an agreed standard for SPs to deliver metadata to CESSDA tools. Since some CESSDA tools will require the integration of new metadata elements, keeping the CMM up to date is an important part of the work of the Metadata Office in 2020. The User Guide (to CMM) will also be updated. Furthermore DDI profiles (for the Euro Question Bank), a UML class model for CMM and a validator tool (to validate metadata files against the CDC and EQB profiles) will be produced and published.</p>
@@ -48,25 +48,25 @@
 	<p>Participants</p>
 	<p>GESIS (lead), UK Data Service, NSD, FSD</p>
 	<p>Back to top</p>
-	<h1>CESSDA Metadata Office: ELSST, CVS and CDC</h1>
+	<h2>CESSDA Metadata Office: ELSST, CVS and CDC</h2>
 	<p>This project covers the second task of the Metadata Office in 2020, taking forward the management of three key CESSDA assets:</p>
 	<ul>
 		<li> European Language Social Science Thesaurus (ELSST) </li>
 		<li> CESSDA Vocabulary Service (CVS) </li>
 		<li> CESSDA Data Catalogue (CDC) </li>
 	</ul>
-	<h3>ELSST</h3>
+	<h4>ELSST</h4>
 	<p>The team develops new and amended concepts, facilitating ongoing translation. Periodic ELSST releases will be made in collaboration with translators to ensure its currency. During 2020, ELSST will move to a new technical platform, enabling better ontology management from 2021 onwards.</p>
-	<h3>CVS</h3>
+	<h4>CVS</h4>
 	<p>The CVS user group will create, manage and quality-assure content, test developments, gather the needs of CV consumers, track and resolve issues. Training and guidance documentation will be provided to users and translators.</p>
-	<h3>CDC</h3>
+	<h4>CDC</h4>
 	<p>Part of EOSC marketplace, CDC needs support by enhancing metadata quality and developing the user interface. The CDC user group will review content, guide contributors on metadata issues, implement quality measurements, track and resolve issues.</p>
 	<p>Duration</p>
 	<p>January - December 2020</p>
 	<p>Participants</p>
 	<p>UK Data Service (lead), FSD, GESIS, NSD</p>
 	<p>Back to top</p>
-	<h1>CESSDA Ontology Management System</h1>
+	<h2>CESSDA Ontology Management System</h2>
 	<p>The current European Language Social Science Thesaurus (ELSST) multilingual thesaurus management system, hosted by UK Data Service, is reaching the end of its life. During 2019, detailed requirements for the replacement of ELSST were compiled. In conjunction with this, testing of a Vocbench + SKOSMOS open-source thesaurus management solution was undertaken.</p>
 	<p>Two potential replacement systems have been suggested as replacement for ELSST:</p>
 	<ul>
@@ -79,14 +79,14 @@
 	<p>Participants</p>
 	<p>UK Data Service (lead), FSD</p>
 	<p>Back to top</p>
-	<h1>CESSDA Vocabulary Service Maintenance 2020</h1>
+	<h2>CESSDA Vocabulary Service Maintenance 2020</h2>
 	<p>The main goal of the project is to maintain the CESSDA Vocabulary Service, remove found errors to keep the service sustainable.</p>
 	<p>Duration</p>
 	<p>January - December 2020</p>
 	<p>Participants</p>
 	<p>GESIS</p>
 	<p>Back to top</p>
-	<h1>CESSDA Euro Question Bank 2020</h1>
+	<h2>CESSDA Euro Question Bank 2020</h2>
 	<p>This project finalises the previous Euro Question Bank (EQB) projects to establish a cross-national question bank. For the tool to function, CESSDA Service Providers and non-members/external data holders have to contribute their documentation by using DDI standardised metadata. This collaboration produces a wide variety of surveys, survey questions, and question-related information searchable for any user.</p>
 	<p>The project will focus on (a) finalising, maintaining and relaunching the EQB application and (b) expanding content and conduct quality control on the content. These aspects are the technical improvement of the existing frontend and backend and the support of Service Providers in the form of software adaptation to bring more content into EQB.</p>
 	<p>Duration</p>
@@ -94,7 +94,7 @@
 	<p>Participants</p>
 	<p>GESIS, MK DASS</p>
 	<p>Back to top</p>
-	<h1>CESSDA Widening Activities and Journal Outreach 2020</h1>
+	<h2>CESSDA Widening Activities and Journal Outreach 2020</h2>
 	<p>This project integrates following two proposals: CESSDA Widening Activities 2020 and Journals Outreach. Widening European coverage and the development of Pan-European data services are among the priorities of CESSDA.</p>
 	<p>The main objectives of the widening activities are the following:</p>
 	<p> <ol>
@@ -110,7 +110,7 @@
 	<p>Participants</p>
 	<p>CSDA (lead), GESIS, FORS, SND, ADP, TARKI, FFZG, MK DASS/ISPJR, DCS/IES</p>
 	<p>Back to top</p>
-	<h1>New Data Types 2020</h1>
+	<h2>New Data Types 2020</h2>
 	<p>New data types are increasingly being used within the social sciences. The use of social media data, transaction data, or recorded data (sometimes these varieties are labelled “digital behavioural data”) is growing for many researchers investigating social phenomena. This creates challenges for data infrastructures to support their staff and researchers especially in the areas of ethics, transparency and reproducibility. Led by the FAIR principles, these new data need to be made findable, accessible, identifiable, and reusable by adapting and extending infrastructures designed for traditional data sources.</p>
 	<p>Key areas of work will focus on: metadata, data documentation, and data quality (in coordination with Metadata Office); practical guidance informed by on-going research) on ethical and legal use of digital behavioural data; and dissemination of the results via an international conference to make CESSDA visible to the community of new data researchers.</p>
 	<p>There are two audiences for the work: researchers needing guidance on how to deposit, and SP staff needing support in curating social media. Moreover, the issues that arise are platform-specific. This project will initially focus on the most heavily used data types: Twitter, Facebook, and digital trace data, and will address others formats if possible.</p>
