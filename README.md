@@ -32,9 +32,6 @@
 	<p>Participants</p>
 	<p>GESIS (lead), ADP, AUSSDA, CSDA, DANS, DNA, DCS, EKKE, FORS, NSD, SND, UK Data Service</p>
 	<p><a href="#top">Back to top</a></p>
-
-	
-	
 	<h2> CESSDA Trust Support 2020 </h2>	
 	<p>A key principle of CESSDA is that Service Providers must be trusted by each other and by their stakeholders including ministries, universities, national statistical offices, funders and, critically, data depositors and users. This project supports this goal through supporting SP’s towards certification against the Trustworthy Digital Repository (TDR) standard selected by CESSDA, the CoreTrustSeal. This project must now support SP at a range of certification maturity: ‘beginning the journey’, ‘self-assessment and certification in progress’, and ‘renewal and improvement’.</p>
 	<p>In 2020 we also progress on the Trust Roadmap which seeks to monitor development in the TDR landscape and the wider landscape of Trust across research infrastructures including the European Open Science Cloud and development in FAIR data.</p>
@@ -42,7 +39,7 @@
 	<p>January - December 2020</p>
 	<p>Participants</p>
 	<p>UK Data Service (lead), DANS, FSD, GESIS, ADP, SND</p>
-	<p>Back to top</p>
+	<p><a href="#top">Back to top</a></p>
 	<h2>CESSDA Metadata Office: Metadata Model</h2>
 	<p>One important aspect of the work of the CESSDA Metadata Office (MDO) is not only to produce and update relevant outputs (e.g. CESSDA Metadata Model (CMM), User Guide) for CESSDA SPs and tools, but also to increase the awareness and understanding of those outcomes to CESSDA SPs and to metadata players outside of CESSDA.One important aspect of the work of the CESSDA Metadata Office (MDO) is not only to produce and update relevant outputs (e.g. CESSDA Metadata Model (CMM), User Guide) for CESSDA SPs and tools, but also to increase the awareness and understanding of those outcomes to CESSDA SPs and to metadata players outside of CESSDA.</p>
 	<p>To be able to take steps and actions, CESSDA needs to stay up to date with metadata developments outside of CESSDA. The project will examine other (metadata) developments and strategically important metadata initiatives.</p>
