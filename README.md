@@ -31,7 +31,7 @@
 	<p>January - December 2020</p>
 	<p>Participants</p>
 	<p>GESIS (lead), ADP, AUSSDA, CSDA, DANS, DNA, DCS, EKKE, FORS, NSD, SND, UK Data Service</p>
-	<a href="#top">Back to top</a>
+	<p><a href="#top">Back to top</a></p>
 
 	
 	
