@@ -94,55 +94,47 @@ google_analytics: [Your Google Analytics tracking ID]
 	<p>Participants</p>
 	<p>UK Data Service (lead), FSD</p>
 	<p>Back to top</p>
-	
-	
-
-	
-	
-	<table>
-		<tr>
-			<td>Item 1</td>
-			<td>Item 2</td>
-			<td>Item 3</td>
-			<td>Item 4</td>
-		</tr>
-		<tr>
-			<td>Item 1</td>
-			<td>Item 2</td>
-			<td>Item 3</td>
-			<td>Item 4</td>
-		</tr>
-		<tr>
-			<td>Item 1</td>
-			<td>Item 2</td>
-			<td>Item 3</td>
-			<td>Item 4</td>
-		</tr>
-			
-	<p>Another paragraph.</p>
-	<h3> Some more details.</h3>
-	<p><strong>Bold the whole sentence!</strong><br/>Or only <strong>bold</strong> one word!</p>
-	<p><em>Make the sentecne in italics.</em></p>
-	<p><u>You can also underline the text.</u></p>
-	<h4> Some more details.</h4>
-	<ol>
-		<li> Item </li>
-		<li> Item </li>
-		<li> Item </li>
-		<li> Item </li>
-	</ol>
+	<h1>CESSDA Vocabulary Service Maintenance 2020</h1>
+	<p>The main goal of the project is to maintain the CESSDA Vocabulary Service, remove found errors to keep the service sustainable.</p>
+	<p>Duration</p>
+	<p>January - December 2020</p>
+	<p>Participants</p>
+	<p>GESIS</p>
+	<p>Back to top</p>
+	<h1>CESSDA Euro Question Bank 2020</h1>
+	<p>This project finalises the previous Euro Question Bank (EQB) projects to establish a cross-national question bank. For the tool to function, CESSDA Service Providers and non-members/external data holders have to contribute their documentation by using DDI standardised metadata. This collaboration produces a wide variety of surveys, survey questions, and question-related information searchable for any user.</p>
+	<p>The project will focus on (a) finalising, maintaining and relaunching the EQB application and (b) expanding content and conduct quality control on the content. These aspects are the technical improvement of the existing frontend and backend and the support of Service Providers in the form of software adaptation to bring more content into EQB.</p>
+	<p>Duration</p>
+	<p>January - December 2020</p>
+	<p>Participants</p>
+	<p>GESIS, MK DASS</p>
+	<p>Back to top</p>
+	<h1>CESSDA Widening Activities and Journal Outreach 2020</h1>
+	<p>This project integrates following two proposals: CESSDA Widening Activities 2020 and Journals Outreach. Widening European coverage and the development of Pan-European data services are among the priorities of CESSDA.</p>
+	<p>The main objectives of the widening activities are the following:</p>
+	<p> <ol>
+		<li> to maintain and foster CESSDA Pan-European coverage in collaboration with non-member SPs within the Network of CESSDA Partners; </li>
+		<li> to help disseminate existing CESSDA support services, tools and knowledge among partner non-member SPs; </li>
+		<li> to maintain and further develop CESSDA strategic knowledge about existing non-member SPs and emerging data archives; and </li>
+		<li> to increase CESSDA visibility in non-member countries. </li>
+	</ol></p>
+	<p>For greater transparency and replication of findings, more and more academic journals are requiring the deposit of the data used in publications. However, many are not equipped for handling these requirements and do not have the proper skills for long-term preservation of data and documentation.</p>
+	<p>The goal therefore is to define and promote a formal collective position statement of CESSDA regarding archival services to journals. The project will thus aim to inform and persuade journals that they can rely on CESSDA service providers for the deposit and sharing of data and replication files used in publications, rather than try to establish repositories themselves. We will focus on European journals with an international appeal in social science disciplines.</p>
+	<p>Duration</p>
+	<p>January - December 2020</p>
+	<p>Participants</p>
+	<p>CSDA (lead), GESIS, FORS, SND, ADP, TARKI, FFZG, MK DASS/ISPJR, DCS/IES</p>
+	<p>Back to top</p>
+	<h1>New Data Types 2020</h1>
+	<p>New data types are increasingly being used within the social sciences. The use of social media data, transaction data, or recorded data (sometimes these varieties are labelled “digital behavioural data”) is growing for many researchers investigating social phenomena. This creates challenges for data infrastructures to support their staff and researchers especially in the areas of ethics, transparency and reproducibility. Led by the FAIR principles, these new data need to be made findable, accessible, identifiable, and reusable by adapting and extending infrastructures designed for traditional data sources.</p>
+	<p>Key areas of work will focus on: metadata, data documentation, and data quality (in coordination with Metadata Office); practical guidance informed by on-going research) on ethical and legal use of digital behavioural data; and dissemination of the results via an international conference to make CESSDA visible to the community of new data researchers.</p>
+	<p>There are two audiences for the work: researchers needing guidance on how to deposit, and SP staff needing support in curating social media. Moreover, the issues that arise are platform-specific. This project will initially focus on the most heavily used data types: Twitter, Facebook, and digital trace data, and will address others formats if possible.</p>
+	<p>Duration</p>
+	<p>January - December 2020</p>
+	<p>Participants</p>
+	<p>GESIS (lead), TARKI, CSDA, SASD, SoDaNet/EKKE, ADP</p>
+	<p>Back to top</p>
 		
-	<ul>
-		<li> Item </li>
-		<li> Item </li>
-		<li> Item </li>
-		<li> Item </li>
-	</ul>
-		
-	<p>Only highlight <mark> the most important notes!</mark></p>
-	<p>To do list:<br/><del>done</del><br/><del>done</del></p>		
-	<p style="color:blue;">blue</p>
-	<p style="color:red;">red</p>	
 </body>
 </html>
 
