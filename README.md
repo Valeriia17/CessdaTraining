@@ -120,8 +120,7 @@
 	<p>Participants</p>
 	<p>GESIS (lead), TARKI, CSDA, SASD, SoDaNet/EKKE, ADP</p>
 	<p><a href="#top">Back to top</a></p>
-	
-</body>
+	</body>
 </html>
 
 
