@@ -122,8 +122,9 @@
 	<p>January - December 2020</p>
 	<p>Participants</p>
 	<p>GESIS (lead), TARKI, CSDA, SASD, SoDaNet/EKKE, ADP</p>
-	<p>Back to top</p>	
-	</body>
+	<p>Back to top</p>
+	
+</body>
 </html>
 
 
