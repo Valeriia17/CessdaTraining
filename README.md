@@ -7,7 +7,7 @@
 	<p>Projects</p> 
 	<ul>
 		<li> <a href="#CESSDA Training Activities 2020">CESSDA Training Activities 2020</a></li>
-		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#trust20">CESSDA Trust Support 2020 </a></li>
+		<li> <a href="#CESSDA Trust Support 2020">CESSDA Trust Support 2020 </a></li>
 		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#mof20">CESSDA Metadata Office: Metadata Model</a></li>
 		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#mofbis20"> CESSDA Metadata Office: ELSST, CVS and CDC </a></li>
 		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#onto">CESSDA Ontology Management System</a></li>
@@ -19,8 +19,8 @@
 	<hr />
 	
 	<a id="top"></a>
-	<h2> CESSDA Training Activities 2020 </h2>
-	<a id="CESSDA Training Activities 2020"></a>	
+	<a id="CESSDA Training Activities 2020"></a>
+	<h2> CESSDA Training Activities 2020 </h2>	
 	<p> The CESSDA Training Group and GESIS will collaborate to ensure that the proposed activities for 2020 meet the priority needs of CESSDA, the Training Group and enable GESIS to develop its training capacities as well.</p>
 	<p> The work falls into three categories:</p>
 	<p> <ol>
@@ -33,6 +33,7 @@
 	<p>Participants</p>
 	<p>GESIS (lead), ADP, AUSSDA, CSDA, DANS, DNA, DCS, EKKE, FORS, NSD, SND, UK Data Service</p>
 	<p><a href="#top">Back to top</a></p>
+	<a id="CESSDA Trust Support 2020"></a>
 	<h2> CESSDA Trust Support 2020 </h2>	
 	<p>A key principle of CESSDA is that Service Providers must be trusted by each other and by their stakeholders including ministries, universities, national statistical offices, funders and, critically, data depositors and users. This project supports this goal through supporting SP’s towards certification against the Trustworthy Digital Repository (TDR) standard selected by CESSDA, the CoreTrustSeal. This project must now support SP at a range of certification maturity: ‘beginning the journey’, ‘self-assessment and certification in progress’, and ‘renewal and improvement’.</p>
 	<p>In 2020 we also progress on the Trust Roadmap which seeks to monitor development in the TDR landscape and the wider landscape of Trust across research infrastructures including the European Open Science Cloud and development in FAIR data.</p>
