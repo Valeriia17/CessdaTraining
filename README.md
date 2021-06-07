@@ -9,12 +9,12 @@
 		<li> <a href="#CESSDA Training Activities 2020">CESSDA Training Activities 2020</a></li>
 		<li> <a href="#CESSDA Trust Support 2020">CESSDA Trust Support 2020 </a></li>
 		<li> <a href="#CESSDA Metadata Office: Metadata Model">CESSDA Metadata Office: Metadata Model</a></li>
-		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#mofbis20"> CESSDA Metadata Office: ELSST, CVS and CDC </a></li>
-		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#onto">CESSDA Ontology Management System</a></li>
-		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#cvs20">CESSDA Vocabulary Service Maintenance 2020 </a></li>
-		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#eqb20"> CESSDA Euro Question Bank 2020 </a></li>
-		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#wid20">CESSDA Widening Activities and Journal Outreach 2020 </a></li>
-		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#ndt20"> New Data Types 2020 </a></li>
+		<li><a href="#CESSDA Metadata Office: ELSST, CVS and CDC"> CESSDA Metadata Office: ELSST, CVS and CDC </a></li>
+		<li> <a href="#CESSDA Ontology Management System">CESSDA Ontology Management System</a></li>
+		<li><a href="#CESSDA Vocabulary Service Maintenance 2020">CESSDA Vocabulary Service Maintenance 2020 </a></li>
+		<li><a href="#CESSDA Euro Question Bank 2020"> CESSDA Euro Question Bank 2020 </a></li>
+		<li><a href="#CESSDA Widening Activities and Journal Outreach 2020">CESSDA Widening Activities and Journal Outreach 2020 </a></li>
+		<li><a href="#New Data Types 2020"> New Data Types 2020 </a></li>
 	</ul>
 	<hr />
 	
@@ -52,6 +52,7 @@
 	<p>Participants</p>
 	<p>GESIS (lead), UK Data Service, NSD, FSD</p>
 	<p><a href="#top">Back to top</a></p>
+	<a id="CESSDA Metadata Office: ELSST, CVS and CDC"></a>
 	<h2>CESSDA Metadata Office: ELSST, CVS and CDC</h2>
 	<p>This project covers the second task of the Metadata Office in 2020, taking forward the management of three key CESSDA assets:</p>
 	<ul>
@@ -83,6 +84,7 @@
 	<p>Participants</p>
 	<p>UK Data Service (lead), FSD</p>
 	<p><a href="#top">Back to top</a></p>
+	<a id="CESSDA Vocabulary Service Maintenance 2020"></a>
 	<h2>CESSDA Vocabulary Service Maintenance 2020</h2>
 	<p>The main goal of the project is to maintain the CESSDA Vocabulary Service, remove found errors to keep the service sustainable.</p>
 	<p>Duration</p>
@@ -90,6 +92,7 @@
 	<p>Participants</p>
 	<p>GESIS</p>
 	<p><a href="#top">Back to top</a></p>
+	<a id="CESSDA Euro Question Bank 2020"></a>
 	<h2>CESSDA Euro Question Bank 2020</h2>
 	<p>This project finalises the previous Euro Question Bank (EQB) projects to establish a cross-national question bank. For the tool to function, CESSDA Service Providers and non-members/external data holders have to contribute their documentation by using DDI standardised metadata. This collaboration produces a wide variety of surveys, survey questions, and question-related information searchable for any user.</p>
 	<p>The project will focus on (a) finalising, maintaining and relaunching the EQB application and (b) expanding content and conduct quality control on the content. These aspects are the technical improvement of the existing frontend and backend and the support of Service Providers in the form of software adaptation to bring more content into EQB.</p>
@@ -98,6 +101,7 @@
 	<p>Participants</p>
 	<p>GESIS, MK DASS</p>
 	<p><a href="#top">Back to top</a></p>
+	<a id="CESSDA Widening Activities and Journal Outreach 2020"></a>
 	<h2>CESSDA Widening Activities and Journal Outreach 2020</h2>
 	<p>This project integrates following two proposals: CESSDA Widening Activities 2020 and Journals Outreach. Widening European coverage and the development of Pan-European data services are among the priorities of CESSDA.</p>
 	<p>The main objectives of the widening activities are the following:</p>
@@ -114,6 +118,7 @@
 	<p>Participants</p>
 	<p>CSDA (lead), GESIS, FORS, SND, ADP, TARKI, FFZG, MK DASS/ISPJR, DCS/IES</p>
 	<p><a href="#top">Back to top</a></p>
+	<a id="New Data Types 2020"></a>
 	<h2>New Data Types 2020</h2>
 	<p>New data types are increasingly being used within the social sciences. The use of social media data, transaction data, or recorded data (sometimes these varieties are labelled “digital behavioural data”) is growing for many researchers investigating social phenomena. This creates challenges for data infrastructures to support their staff and researchers especially in the areas of ethics, transparency and reproducibility. Led by the FAIR principles, these new data need to be made findable, accessible, identifiable, and reusable by adapting and extending infrastructures designed for traditional data sources.</p>
 	<p>Key areas of work will focus on: metadata, data documentation, and data quality (in coordination with Metadata Office); practical guidance informed by on-going research) on ethical and legal use of digital behavioural data; and dissemination of the results via an international conference to make CESSDA visible to the community of new data researchers.</p>
