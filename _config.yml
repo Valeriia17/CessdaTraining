@@ -3,6 +3,9 @@ title: Work Plans
 logo: /assets/Home.png
 description: DATE, TIME
 sidebar:
-  nav: "_docCESSDA Training Activities 2020"
+  -title:"Navigation"
+  text:"some text"
+  -title:"Another title"
+  text:"some text"
 show_downloads: false
 theme: jekyll-theme-minimal
