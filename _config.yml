@@ -1,7 +1,7 @@
 # Site settings
 title: Work Plans
 logo: /assets/Home.png
-description: DATE, TIME
+description: DATE
 sidebar:
   - title: "Navigation"
   text:"some text"
