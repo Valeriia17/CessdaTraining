@@ -1,2 +1,6 @@
 # documentation links
-
+docs:
+  - title: Navigation
+    children:
+      - title: "CESSDA Training Activities 2020"
+        url: /docs/CESSDA Training Activities/
