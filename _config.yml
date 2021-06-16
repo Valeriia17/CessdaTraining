@@ -3,5 +3,6 @@ layout: default
 title: Work Plans
 logo: /assets/Home.png
 description: DATE
+toc: true
 show_downloads: false
 theme: jekyll-theme-minimal
