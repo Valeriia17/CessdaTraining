@@ -2,10 +2,5 @@
 title: Work Plans
 logo: /assets/Home.png
 description: DATE
-sidebar:
-  - title: "Navigation"
-  text:"some text"
-  - title: "Another title"
-  text:"some text"
 show_downloads: false
 theme: jekyll-theme-minimal
