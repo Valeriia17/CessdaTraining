@@ -4,5 +4,7 @@ title: Work Plans
 logo: /assets/Home.png
 description: DATE
 toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 show_downloads: false
 theme: jekyll-theme-minimal
