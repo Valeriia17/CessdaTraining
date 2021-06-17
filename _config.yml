@@ -3,6 +3,7 @@ title: Work Plans
 tagline: some infomration here
 logo: /assets/Home.png
 description: DATE, TIM
+sidebar: true
 toc: true
 toc_label: "Table of Contents"
 show_downloads: false
