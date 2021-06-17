@@ -1,9 +1,11 @@
 # Site settings
+theme: jekyll-theme-minimal
+layout: default
 title: Work Plans
+sidebar: true
 toc: true
 toc_label: "Table of Contents"
 logo: /assets/Home.png
-description: DATE, TIME
-sidebar: true
+description: Here should be the table of content 
 show_downloads: false
-theme: jekyll-theme-minimal
+
