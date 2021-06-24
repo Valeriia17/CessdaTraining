@@ -3,8 +3,7 @@
 </head>
 	<body>
 	<h2> Work Plan 2020 </h2
-	<h1> Work Plan 2020 </h1>
-	<p>Projects</p> 
+	<p><b>Projects</b></p> 
 	<ul>
 		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#trust20">CESSDA Trust Support 2020 </a></li>
 		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#mof20">CESSDA Metadata Office: Metadata Model</a></li>
