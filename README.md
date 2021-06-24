@@ -59,6 +59,7 @@
 	<p>Participants</p>
 	<p>UK Data Service (lead), DANS, FSD, GESIS, ADP, SND</p>
 	<p><a href="#top">Back to top</a></p>
+	<a"></a>
 	<a id="CESSDA Metadata Office: Metadata Model"></a>
 	<h2>CESSDA Metadata Office: Metadata Model</h2>
 	<p>One important aspect of the work of the CESSDA Metadata Office (MDO) is not only to produce and update relevant outputs (e.g. CESSDA Metadata Model (CMM), User Guide) for CESSDA SPs and tools, but also to increase the awareness and understanding of those outcomes to CESSDA SPs and to metadata players outside of CESSDA.One important aspect of the work of the CESSDA Metadata Office (MDO) is not only to produce and update relevant outputs (e.g. CESSDA Metadata Model (CMM), User Guide) for CESSDA SPs and tools, but also to increase the awareness and understanding of those outcomes to CESSDA SPs and to metadata players outside of CESSDA.</p>
