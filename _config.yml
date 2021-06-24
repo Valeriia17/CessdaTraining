@@ -3,7 +3,6 @@ theme: jekyll-theme-minimal
 .page {
   width: calc(100% - #{$right-sidebar-width-narrow});
 classes: wide 
-layout: default
 title: Work Plans
 sidebar: true
 toc: true
