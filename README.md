@@ -31,8 +31,7 @@
 	<p>Duration</p>
 	<p>January - December 2020</p>
 	<p><b>Participants</b></p>
-	<ul>
-    <b><a href="mailto:scholma@brill.com">Wendel Scholma</a></b>, Acquisitions Editor & <a href="http://www.brill.com/rdj" target="_blank">Research Data Journal</a>, Brill <br>
+    <p><b><a href="mailto:scholma@brill.com">Wendel Scholma</a></b>, Acquisitions Editor & <a href="http://www.brill.com/rdj" target="_blank">Research Data Journal</a>, Brill <br>
     <b><a href="mailto:caroline.sutton@informa.com">Caroline Sutton</a></b>, Director of Open Research, Taylor & Francis <br>
     <b><a href="mailto:martina.bihn@springernature.com">Martina Bihn</a></b>, Editorial Director of Humanities and Social Sciences, Springer Nature Group <br>
 <br>
@@ -50,8 +49,7 @@
     <b><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a></b>, Data Collections Development Manager,
       <a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/<a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
     <b><a href="mailto:peter.doorn@dans.knaw.nl">Peter Doorn</a></b>, Scientific Advisor,
-      <a href="https://dans.knaw.nl" target="_blank">Data Archiving and Networked Services (DANS)</a>, The Netherlands <br>
-</ul>
+      <a href="https://dans.knaw.nl" target="_blank">Data Archiving and Networked Services (DANS)</a>, The Netherlands <br></p>
 
 	<p><a href="#top">Back to top</a></p>
 	<a id="CESSDA Trust Support 2020"></a>
