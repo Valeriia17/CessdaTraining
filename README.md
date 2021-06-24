@@ -30,6 +30,7 @@
 	</ol></p>
 	<p>Duration</p>
 	<p>January - December 2020</p>
+	<p><b>Participants</b></p>
 	<ul>
     <b><a href="mailto:scholma@brill.com">Wendel Scholma</a></b>, Acquisitions Editor & <a href="http://www.brill.com/rdj" target="_blank">Research Data Journal</a>, Brill <br>
     <b><a href="mailto:caroline.sutton@informa.com">Caroline Sutton</a></b>, Director of Open Research, Taylor & Francis <br>
