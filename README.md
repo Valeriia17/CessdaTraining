@@ -46,11 +46,13 @@
     <b><a href="mailto:heuberger.simon@gmail.com">Research Scientist, Simon Heuberger</a></b>, TU München & Replicator for <i>Political Analysis</i> <br>
     <b>Kostas Gemenis</b>, Senior Researcher, Max Planck Institute for the Study of Societies <br>
     <b>Holger Döring</b>, Universität Bremen & <a href="https://www.gesis.org/en/institute/departments/data-services-for-the-social-sciences" target="_blank">GESIS Data Services</a> <br>
+<br>
     <b><a href="mailto:ilze.lace@snd.gu.se">Ilze Lace</a></b>, Research Data Advisor,
       <a href="https://snd.gu.se/en" target="_blank">Swedish National Data Service (SND)</a>, Sweden <br>
     <b><a href="mailto:dcmagd@essex.ac.uk">Cristina Magder</a></b>, Data Collections Development Manager,
       <a href="https://www.data-archive.ac.uk" target="_blank">UK Data Archive</a>/<a href="https://www.ukdataservice.ac.uk" target="_blank">UK Data Service</a> <br>
     <b><a href="mailto:peter.doorn@dans.knaw.nl">Peter Doorn</a></b>, Scientific Advisor,
+<br>
       <a href="https://dans.knaw.nl" target="_blank">Data Archiving and Networked Services (DANS)</a>, The Netherlands <br></p>
 
 	<p><a href="#top">Back to top</a></p>
