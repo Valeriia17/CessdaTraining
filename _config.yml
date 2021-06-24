@@ -1,12 +1,20 @@
+  
 # Site settings
 theme: jekyll-theme-minimal
+.page {
+  width: calc(100% - #{$right-sidebar-width-narrow});
 classes: wide 
+layout: default
+title: Work Plans
+sidebar: true
 toc: true
-title: <b>Work Plans</b>
+toc_label: "Table of Contents"
 logo: /assets/Home.png
-description: Event Plan
-	<p>Monday 10:00-12:00</p>
-             <p><a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx">Registration Form</a></p>
+description: <h2><strong>Event Plan</strong></h2><br>
+Monday 10:00 - describtion<br>
+Tuesday 10:00 - describtion<br>
+Wednseday 10:00 - describtion<br>
+             <a href="https://us02web.zoom.us/meeting/register/tZctdOyhqT4tH9DubmQ3qKwI8_s1lxkQ4xhx">Registration Form</a>
 show_downloads: false
 footer: false
 
