@@ -1,3 +1,25 @@
+/* ==========================================================================
+   SINGLE PAGE/POST
+   ========================================================================== */
+
+#main {
+  @include clearfix;
+  margin-left: auto;
+  margin-top: 2em;
+  margin-right: auto;
+  padding-left: 1em;
+  padding-right: 1em;
+  -webkit-animation: $intro-transition;
+          animation: $intro-transition;
+  max-width: 100%;
+  -webkit-animation-delay: 0.35s;
+          animation-delay: 0.35s;
+
+  @include breakpoint($x-large) {
+    max-width: $x-large;
+  }
+}
+
 .page {
 
   @include breakpoint($large) {
