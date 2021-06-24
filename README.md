@@ -30,8 +30,12 @@
 	</ol></p>
 	<p>Duration</p>
 	<p>January - December 2020</p>
-	<p>Participants</p>
-	<p>GESIS (lead), ADP, AUSSDA, CSDA, DANS, DNA, DCS, EKKE, FORS, NSD, SND, UK Data Service</p>
+	<p>14:00-15:00  Panel discussion “Challenges of data sharing from different perspectives”<br>
+    Alexandros Afouxenidis, Greek Review for Social Research, Greece
+Rafael Lalive, Swiss Journal of Economics and Statistics, Switzerland Simon Heuberger, Replicator for the journal Political Analysis, Germany
+Kostas Gemenis, Max Planck Institute for the Study of Societies, Germany Denis Vlašiček, CROSSDA/University of Zagreb, Faculty of Humanities & Social Sciences, Croatia  
+Ilze Lace, Swedish National Data Service (SND), Sweden Cristina Magder, Data Collections Development Manager, UK Data Service, UK Stefan Einarson / Wendel Scholma / Jason Prevost, Acquisitions Editors, BRILL publishers Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis </p>
+  <p>15:00-15:10	Break</p>
 	<p><a href="#top">Back to top</a></p>
 	<a id="CESSDA Trust Support 2020"></a>
 	<h2> CESSDA Trust Support 2020 </h2>	
