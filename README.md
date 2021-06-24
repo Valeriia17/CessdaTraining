@@ -6,15 +6,14 @@
 	<h1> Work Plan 2020 </h1>
 	<p>Projects</p> 
 	<ul>
-		<li> CESSDA Training Activities 2020 </li>
-		<li> CESSDA Trust Support 2020 </li>
-		<li> CESSDA Metadata Office: Metadata Model </li>
-		<li> CESSDA Metadata Office: ELSST, CVS and CDC </li>
-		<li> CESSDA Ontology Management System</li>
-		<li>CESSDA Vocabulary Service Maintenance 2020 </li>
-		<li> CESSDA Euro Question Bank 2020 </li>
-		<li> CESSDA Widening Activities and Journal Outreach 2020 </li>
-		<li> New Data Types 2020 </li>
+		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#trust20">CESSDA Trust Support 2020 </a></li>
+		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#mof20">CESSDA Metadata Office: Metadata Model</a></li>
+		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#mofbis20"> CESSDA Metadata Office: ELSST, CVS and CDC </a></li>
+		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#onto">CESSDA Ontology Management System</a></li>
+		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#cvs20">CESSDA Vocabulary Service Maintenance 2020 </a></li>
+		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#eqb20"> CESSDA Euro Question Bank 2020 </a></li>
+		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#wid20">CESSDA Widening Activities and Journal Outreach 2020 </a></li>
+		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#ndt20"> New Data Types 2020 </a></li>
 	</ul>
 	<hr />
 		
