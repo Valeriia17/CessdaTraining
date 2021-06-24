@@ -2,7 +2,22 @@
 <head>	
 </head>
 	<body>
-	<h2> Work Plan 2020 </h2>
+	<h2> Work Plan 2020 </h2
+	<h1> Work Plan 2020 </h1>
+	<p>Projects</p> 
+	<ul>
+		<li> CESSDA Training Activities 2020 </li>
+		<li> CESSDA Trust Support 2020 </li>
+		<li> CESSDA Metadata Office: Metadata Model </li>
+		<li> CESSDA Metadata Office: ELSST, CVS and CDC </li>
+		<li> CESSDA Ontology Management System</li>
+		<li>CESSDA Vocabulary Service Maintenance 2020 </li>
+		<li> CESSDA Euro Question Bank 2020 </li>
+		<li> CESSDA Widening Activities and Journal Outreach 2020 </li>
+		<li> New Data Types 2020 </li>
+	</ul>
+	<hr />
+		
 	<a id="top"></a>
 	<a id="CESSDA Training Activities 2020"></a>
 	<h2> CESSDA Training Activities 2020 </h2>	
