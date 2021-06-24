@@ -1,7 +1,7 @@
 <html>
 <head>	
 </head>
-<body>
+	<body>
 	<h2> Work Plan 2020 </h2>
 	<a id="top"></a>
 	<a id="CESSDA Training Activities 2020"></a>
