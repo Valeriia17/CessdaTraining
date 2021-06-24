@@ -1,7 +1,4 @@
 <html>
-.page {
-  width: calc(100% - #{$right-sidebar-width-narrow});
-}
 <head>	
 
 </head>
