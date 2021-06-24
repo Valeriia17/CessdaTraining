@@ -1,7 +1,7 @@
 # Site settings
 theme: jekyll-theme-minimal
 classes: wide 
-title: Work Plans
+title: <b>Work Plans</b>
 sidebar: true
 toc: true
 toc_label: "Table of Contents"
