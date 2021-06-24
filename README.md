@@ -5,14 +5,15 @@
 		<h1> Work Plan 2020 </h1>
 		<p><b>Projects</b></p> 
 	<ul>
-		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#trust20">CESSDA Trust Support 2020 </a></li>
-		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#mof20">CESSDA Metadata Office: Metadata Model</a></li>
-		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#mofbis20"> CESSDA Metadata Office: ELSST, CVS and CDC </a></li>
-		<li> <a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#onto">CESSDA Ontology Management System</a></li>
-		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#cvs20">CESSDA Vocabulary Service Maintenance 2020 </a></li>
-		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#eqb20"> CESSDA Euro Question Bank 2020 </a></li>
-		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#wid20">CESSDA Widening Activities and Journal Outreach 2020 </a></li>
-		<li><a href="https://www.cessda.eu/About/Projects/Work-Plans/Work-Plan-2020#ndt20"> New Data Types 2020 </a></li>
+		<li> <a href="#CESSDA Training Activities 2020">CESSDA Training Activities 2020</a></li>
+		<li> <a href="#CESSDA Trust Support 2020">CESSDA Trust Support 2020 </a></li>
+		<li> <a href="#CESSDA Metadata Office: Metadata Model">CESSDA Metadata Office: Metadata Model</a></li>
+		<li><a href="#CESSDA Metadata Office: ELSST, CVS and CDC"> CESSDA Metadata Office: ELSST, CVS and CDC </a></li>
+		<li> <a href="#CESSDA Ontology Management System">CESSDA Ontology Management System</a></li>
+		<li><a href="#CESSDA Vocabulary Service Maintenance 2020">CESSDA Vocabulary Service Maintenance 2020 </a></li>
+		<li><a href="#CESSDA Euro Question Bank 2020"> CESSDA Euro Question Bank 2020 </a></li>
+		<li><a href="#CESSDA Widening Activities and Journal Outreach 2020">CESSDA Widening Activities and Journal Outreach 2020 </a></li>
+		<li><a href="#New Data Types 2020"> New Data Types 2020 </a></li>
 	</ul>
 	<hr />
 		
